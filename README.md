@@ -16,4 +16,4 @@ Topics covered in this workshop include:
 - Introduction to RMarkdown to create high quality documents to communicate results
 - Best practices for reproducible research
 
-
+https://introduction-r-tidyverse.netlify.app/
